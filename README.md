@@ -1,4 +1,4 @@
-## Hi there!
+## Assalamu ‘Alaykum!
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
