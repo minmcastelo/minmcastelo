@@ -7,7 +7,4 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
----
-[![](https://visitcount.itsvg.in/api?id=minmcastelo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=minmcastelo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
